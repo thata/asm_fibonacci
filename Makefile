@@ -3,3 +3,6 @@ fibonacci: fibonacci.S
 
 clean:
 	rm -rf fibonacci
+
+run:
+	./fibonacci
